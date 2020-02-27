@@ -1,5 +1,5 @@
 console.log('Danesh');
-const youtubeApiKey = 'AIzaSyDkPTSj7RXHi1kSBemfQYm9TNu8CIweTUg';
+const youtubeApiKey = '';
 const apiURL = 'https://www.googleapis.com/youtube/v3';
 const makanMustyId = 'UC167j-qCguSgHu20raA211w';
 const state = {};
